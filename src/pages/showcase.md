@@ -16,7 +16,7 @@ sections:
         content: A portfolio theme for Unibit
       - title: Fresh
         title_url: 'https://themes.stackbit.com/demos/fresh/'
-        image: images/7.jpg
+        image: images/jamstack.svg
         content: A personal theme for Unibit
       - title: Fjord
         title_url: 'https://themes.stackbit.com/demos/fjord/'
